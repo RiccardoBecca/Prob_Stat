@@ -4,4 +4,4 @@ Questa repository contiene il progetto di analisi statistica e probabilistica de
 
 Per lo svolgimento del progetto si sono utilizzate principalmente le librerie `pandas` e `seaborn` di Python. Sono stati svolti studi di correlazioni, test statistici e studio del Dataset con alcuni metodi quali la Principant Component Analysis.
 
-Lo studio è stato presentato nel jupyter-notebook 
+Lo studio è stato presentato nel jupyter-notebook `NTN_Mercato_Immobiliare.ipynb` presente nella repository.
